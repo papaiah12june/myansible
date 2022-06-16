@@ -1,0 +1,5 @@
+Eno=int(input("Enter the Employee No:"))
+Ename=input("Enter the Employee Name:")
+Esalary=int(input("Enter salary:"))
+Edesignation=input("Enter Designation:")
+Emarrieed=bool(input("Employee Married?[True/False]:"))

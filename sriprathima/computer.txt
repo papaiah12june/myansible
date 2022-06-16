@@ -1,0 +1,10 @@
+<html>
+head>
+<title<creation of forms</title>
+</head>
+<body bgcolor="pink">
+<div align="center"><font color="red"size="15">regitration form</font>
+<hr border color "= "green"width="400" size="10">
+<tabl cellspacing=0>
+<form name="action=""method="post">
+<tr><td>stude name&nbsp&nbsp</td><td>input type="text"maxlegth="40"
